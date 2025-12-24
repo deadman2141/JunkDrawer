@@ -1,6 +1,6 @@
 # This is for Pop_OS 22.04
 
-# Originally running with a 2080 Super
+Originally running with a 2080 Super
 
 Clean install,
 VERY SLOW, take your time, wait for process's
