@@ -1,4 +1,5 @@
 # QuickNotes
+
 So I don't have to re-research the solutions.
 
 SSH Quick Reference
@@ -13,7 +14,7 @@ Installing All The Mods  MC Server
 X11 error, requires --installServer at the end of the command
 java -jar forge-1.19.2-43.1.27-installer.jar --installServer
 
-Also, openjdk-XX-jdk, 
+Also, openjdk-XX-jdk,
 
 For Plex Pass on truenas scale:
 app pool settings > uncheck the safety bull****
