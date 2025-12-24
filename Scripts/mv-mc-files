@@ -1,2 +1,4 @@
 #!/bin/bash
+# To use this make sure your first aug is the "old" version. then your second aug is your "new" version.
+# To Do: Make it more robust?
 cp -vr /home/modmc/Server-Files-0.$1/banned-ips.json /home/modmc/Server-Files-0.$1/banned-players.json /home/modmc/Server-Files-0.$1/eula.txt /home/modmc/Server-Files-0.$1/ops.json /home/modmc/Server-Files-0.$1/usercache.json /home/modmc/Server-Files-0.$1/usernamecache.json /home/modmc/Server-Files-0.$1/whitelist.json /home/modmc/Server-Files-0.$1/world/ /home/modmc/Server-Files-0.$2/
